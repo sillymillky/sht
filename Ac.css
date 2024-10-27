@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(76, 133, 135);
+}
+.lg-card{
+    display:flex;
+    flex-direction: column;
+    width: 200px;
+    margin-top: 200px;
+    margin-left: 550px;
+}
+button{
+    margin-top: 10px;
+    width: 50px;
+    margin-left: 80px;
+    background-color: beige;
+}
